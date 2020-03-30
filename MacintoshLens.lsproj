@@ -3,7 +3,7 @@
     "document_id": "LxX82kfg4siCklXEQRUq",
     "original_document_id": "LxX82kfg4siCklXEQRUq",
     "version": "23",
-    "lastChanged": "1585319613869",
+    "lastChanged": "1585529386665",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -728,7 +728,7 @@
                     },
                     {
                         "k": "13",
-                        "v": "9ac614f818a303c7a121a409aa3cc579"
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
                     },
                     {
                         "k": "14",
@@ -746,9 +746,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-27T10:18:30",
+                        "lastModified": "2020-03-29T20:49:42",
                         "name": "Public",
-                        "hash": "f514263b937fcdca16c18a72559b04e3",
+                        "hash": "79862d18d38017bf2093b6886e2af359",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -787,9 +787,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-27T10:09:57",
+                                "lastModified": "2020-03-29T20:49:42",
                                 "name": "Credit Alpha.js",
-                                "hash": "9ac614f818a303c7a121a409aa3cc579",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
@@ -1230,9 +1230,9 @@
             "selection": {
                 "resources": [
                     {
-                        "uid": "1585318642384856:18924",
+                        "uid": "1585318183784299:3570",
                         "path_list": [
-                            "Screen Shot 2020-03-27 at 10"
+                            "Credit Alpha"
                         ]
                     }
                 ]
